@@ -1,5 +1,9 @@
 # searchie-extraction
-Feature-Extraction code for "Named Entity Recognition with Extremely Limited Data" from the LND4IR workshop.
+Feature-Extraction code for ["Named Entity Recognition with Extremely Limited Data"](https://arxiv.org/abs/1806.04411) from the LND4IR workshop.
+
+## The paper
+
+Find the paper on [ArXiv/1806.04411](https://arxiv.org/abs/1806.04411).
 
 ## Building the code
 
